@@ -7,3 +7,9 @@ Ejercicios semana 2.
 - .editorconfig
 - .gitignore
 - package.json
+- Instalar dependencias desde package.json `npm i`
+- Crear repo: `git init`
+- Instal del eslint: `npm i -D eslint`
+- Configuracion del Eslint: `npx eslint --init`
+- A;adir: `npm i -D eslint-config-prettier`
+- Incluir en eslint.json en extends: `prettier`
